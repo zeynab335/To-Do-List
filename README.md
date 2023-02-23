@@ -1,13 +1,25 @@
-# Getting Started with Create React App
+# Description
+Organizing Your Work & Life Organize your work and life, finally. Become focused, organized
+using (React-js Framework , html5 , css3 , Bootstrap )
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Installation
+# Install server dependencies and client dependencies.
+$ npm run setup
 
-## Available Scripts
+---------------------------------------------------------------------------
 
-In the project directory, you can run:
+# Run client only
+$ npm run start
 
-### `npm start`
+# Run server only
+-- go to Path /DB 
+$ npm run start:server
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+--------------------------------------------------------------------------
+# Sample OF Project
+
+![1](https://user-images.githubusercontent.com/71345608/220852514-7a2faa71-ba4e-48e0-9c8f-57bf0ebaee7b.jpeg)
+
+
+
 
