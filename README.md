@@ -6,7 +6,7 @@ using (React-js Framework , html5 , css3 , Bootstrap )
 # Install server dependencies and client dependencies.
 $ npm run setup
 
----------------------------------------------------------------------------
+
 
 # Run client only
 $ npm run start
@@ -15,10 +15,11 @@ $ npm run start
 -- go to Path /DB 
 $ npm run start:server
 
---------------------------------------------------------------------------
 # Sample OF Project
 
-![1](https://user-images.githubusercontent.com/71345608/220852514-7a2faa71-ba4e-48e0-9c8f-57bf0ebaee7b.jpeg)
+![1](https://user-images.githubusercontent.com/71345608/220852659-8989473a-7a81-4a4b-a98e-2f1fb180127e.jpeg)
+![2](https://user-images.githubusercontent.com/71345608/220852679-ed70045e-24fd-469b-b038-1f095668b848.jpeg)
+![3](https://user-images.githubusercontent.com/71345608/220852688-798b8031-e841-45e3-8f59-5efeede5d9db.jpeg)
 
 
 
